@@ -21,8 +21,6 @@ A **Modern Portfolio** Built with REACT.JS &amp; NEXT.JS.
 
 ## Preview
 
-## <img src="public/finalProduct.png" width="550" height="270"/>
-
 ---
 
 ## Live Demo -- > [ahmedfarag9.github.io](https://ahmedfarag9.github.io)
