@@ -43,7 +43,10 @@ function Header({}: Props) {
 				/>
         </motion.div>
 
-		< motion.div
+
+
+		<a href="#contact">
+		<motion.div
 			initial={{
 				x: 500,
 				opacity: 0,
@@ -69,6 +72,7 @@ function Header({}: Props) {
 			<p className='uppercase hidden md:inline-flex text-sm text-gray-400'>
 				Get in Touch</p>
 		</motion.div>
+		</a>
 		
 
 
