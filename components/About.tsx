@@ -30,6 +30,7 @@ function About() {
         width={200}
         height={200}
         text-align='center'
+        
         alt='user picture'
         className='mt-24 md:mb-0 flex-shrink-0 w-52 h-52 md:w-[300px] md:h-[300px]
         rounded-full object-cover md:rounded-lg 

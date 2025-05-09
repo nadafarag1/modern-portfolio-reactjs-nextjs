@@ -83,17 +83,9 @@ export default function Home() {
       </section>
 
 
-      {/* <footer className='sticky bottom-20 md:bottom-8 justify-end flex w-full pr-10'>
-  <div className='flex items-center justify-center'>
-    <a href="#Hero">
-      <Image
-        className='h-10 w-10 rounded-full filter grayscale hover:grayscale-0 cursor-pointer'
-        src={profilePic}
-        alt="Home Button"
-      />
-    </a>
-  </div>
-</footer> */}
+
+
+
 
 
 
